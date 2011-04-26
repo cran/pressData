@@ -2,8 +2,8 @@ Package: pressData
 Type: Package
 Title: Data sets for package PRESS--Protein REsidue-level Structural
         Statistics
-Version: 1.0
-Date: 2010-07-20
+Version: 2.0
+Date: 2011-04-26
 Author: Yuanyuan Huang, Stephen Bonett, Zhijun Wu
 Maintainer: Yuanyuan Huang <sunnyuan.h@gmail.com>
 Description: Data sets for displaying statistical information about
@@ -13,7 +13,7 @@ URL: orion.math.iastate.edu/press
 LazyLoad: yes
 LazyData: yes
 License: GPL-3
-Packaged: 2011-04-08 21:44:13 UTC; sunnyuan
+Packaged: 2011-04-26 19:04:55 UTC; sunnyuan
 Depends: R (>= 2.10)
 Repository: CRAN
-Date/Publication: 2011-04-09 09:29:15
+Date/Publication: 2011-04-27 09:21:29
